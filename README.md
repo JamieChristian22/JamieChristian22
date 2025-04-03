@@ -3,7 +3,7 @@ Hello 👋 My name is Jamie Christian II, I graduated from Virginia Union Univer
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/jamie-christian-6b7a01232) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Jamiechristian557@gmail.com) 
+[![LinkedIn]www.linkedin.com/in/jamie-christian-6b7a01232 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Jamiechristian557@gmail.com) 
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
