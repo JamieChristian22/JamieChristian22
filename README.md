@@ -21,7 +21,7 @@ I’m passionate about turning business challenges into insight-backed strategie
 ## 🛠️ Tools & Skills
 - **Business Analysis**: Requirements Gathering, Stakeholder Engagement, RACI Charts, BRDs  
 - **Tools**: Power BI, Excel, Lucidchart, Microsoft Visio  
-- **Technical**: SQL (Beginner–Intermediate), Tableau  
+- **Technical**: SQL , Tableau  
 - **Methodologies**: Process Modeling, BABOK Framework, Agile Fundamentals
 
 ---
