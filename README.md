@@ -1,16 +1,39 @@
-## 👋 About Me
+# 👋 Hi, I'm Jamie Christian II
 
-Hi, I’m **Jamie Christian II**, an ECBA-certified Business Analyst with a bachelor’s degree in Entrepreneurial Management from Virginia Union University.
+🎯 **Entry-Level Business Analyst | ECBA Certified | Power BI | SQL | Process Improvement**
 
-I’m passionate about solving business problems through data, process modeling, and stakeholder engagement. I’ve completed structured training in business analysis (ECBA), where I learned to gather requirements, create workflow models, analyze business needs, and deliver documentation aligned with BABOK principles.
-
-Through my portfolio projects, I’ve built dashboards in **Power BI** and **Tableau**, worked with **Excel** and **SQL** for data analysis, and delivered BA artifacts like **BRDs**, **risk registers**, **use case diagrams**, and **stakeholder maps**.
-
-I’m actively pursuing entry-level Business Analyst roles and always open to opportunities to grow, contribute, and collaborate.
+I’m passionate about turning business challenges into insight-backed strategies that drive measurable results.
 
 ---
 
-## 🔗 Socials
+## 📊 Key Projects
+- **[Onboarding Process Optimization](https://github.com/JamieChristian22/Onboarding-BRD)**  
+  Delivered BRD, stakeholder map, and process models that reduced onboarding time by 25%.
+
+- **[Power BI Dashboard – HR Analytics](https://github.com/JamieChristian22/HR-Dashboard)**  
+  Built a dashboard analyzing 1,000+ data points to support HR decision-making.
+
+- **[Process Mapping Case Study](https://github.com/JamieChristian22/Process-Mapping)**  
+  Created ‘As-Is’ and ‘To-Be’ Lucidchart diagrams and aligned them with BABOK guidelines.
+
+---
+
+## 🛠️ Tools & Skills
+- **Business Analysis**: Requirements Gathering, Stakeholder Engagement, RACI Charts, BRDs  
+- **Tools**: Power BI, Excel, Lucidchart, Microsoft Visio  
+- **Technical**: SQL (Beginner–Intermediate), Tableau  
+- **Methodologies**: Process Modeling, BABOK Framework, Agile Fundamentals
+
+---
+
+## 📫 Let’s Connect
+🔗 [LinkedIn](https://www.linkedin.com/in/jamie-christian-6b7a01232)  
+📬 JamieChristian331@gmail.com  
+📁 [View My Full Portfolio](https://github.com/JamieChristian22)
+
+---
+
+🔍 **#OpenToWork** | Business Analyst | Entry-Level | Process Improvement | Data-Driven Decisions
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/jamie-christian-ii-6b7a01232)  
 📧 jamiechristian557@gmail.com
