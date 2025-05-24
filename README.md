@@ -7,14 +7,20 @@ I’m passionate about turning business challenges into insight-backed strategie
 ---
 
 ## 📊 Key Projects
-- **[Onboarding Process Optimization](https://github.com/JamieChristian22/Onboarding-BRD)**  
-  Delivered BRD, stakeholder map, and process models that reduced onboarding time by 25%.
 
-- **[Power BI Dashboard – HR Analytics](https://github.com/JamieChristian22/HR-Dashboard)**  
-  Built a dashboard analyzing 1,000+ data points to support HR decision-making.
+- **📁 [Employee Onboarding Improvement Case Study](https://github.com/JamieChristian22/Onboarding-BRD)**  
+  Led the creation of a Business Requirements Document (BRD), stakeholder map, and ‘As-Is/To-Be’ process models.  
+  ➤ Outcome: Reduced onboarding time by 25% through streamlined workflows.
 
-- **[Process Mapping Case Study](https://github.com/JamieChristian22/Process-Mapping)**  
-  Created ‘As-Is’ and ‘To-Be’ Lucidchart diagrams and aligned them with BABOK guidelines.
+- **📈 [HR Analytics Dashboard – Power BI](https://github.com/JamieChristian22/HR-Dashboard)**  
+  Designed and deployed an interactive Power BI dashboard analyzing 1,000+ HR records.  
+  ➤ Visualized attrition, tenure, and performance to support HR strategy.
+
+- **🔍 [Process Mapping Case Study – Operational Flow](https://github.com/JamieChristian22/Process-Mapping)**  
+  Created detailed process diagrams in Lucidchart and aligned workflow redesigns with BABOK principles.  
+  ➤ Improved visibility into team handoffs and proposed future-state enhancements.
+
+
 
 ---
 
