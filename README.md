@@ -1,51 +1,45 @@
 # 👋 Hi, I'm Jamie Christian II
 
-🎯 **Entry-Level Business Analyst | ECBA Certified | Power BI | SQL | Process Improvement**
+🎯 **Business Analyst | Data Analyst | Business Intelligence**  
 
-I’m passionate about turning business challenges into insight-backed strategies that drive measurable results.
+I help organizations transform data and processes into actionable insights and strategies. My portfolio showcases projects in business analysis, data analytics, and business intelligence—highlighting my ability to uncover insights, design dashboards, and deliver clear documentation for business decisions.  
 
----
-
-## 🛠️ Tools & Skills
-- **Business Analysis**: Requirements Gathering, Stakeholder Engagement, RACI Charts, BRDs, etc  
-- **Tools**: Power BI, Excel, Lucidchart, Microsoft Visio  
-- **Technical**: SQL , Tableau  
-- **Methodologies**: Process Modeling, BABOK Framework, Agile Fundamentals
+[![View My Portfolio](https://img.shields.io/badge/View-My_Portfolio-blue)](https://github.com/JamieChristian22/MyProjects)
 
 ---
 
-## 📫 Let’s Connect
-🔗 [LinkedIn](https://www.linkedin.com/in/jamie-christian-6b7a01232)  
-📬 JamieChristian331@gmail.com  
-📁 [View My Full Portfolio](https://github.com/JamieChristian22)
+## 🛠 Tools & Skills
+
+- **Business Analysis**: Requirements Gathering, Stakeholder Engagement, RACI Charts, BRDs, Process Mapping  
+- **Data Analysis**: Data Cleaning, SQL Queries, Pivot Tables, Exploratory Data Analysis (EDA)  
+- **Business Intelligence**: Dashboard Design (Power BI), Data Visualization (Excel Charts)  
+- **Tools**: Power BI, Excel, Google Sheets, Lucidchart, Microsoft Visio  
+- **Methodologies**: Process Improvement, Agile Fundamentals  
 
 ---
 
-🔍 **#OpenToWork** | Business Analyst | Entry-Level | Process Improvement | Data-Driven Decisions
+## 🗂 Featured Projects
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/jamie-christian-ii-6b7a01232)  
-📧 jamiechristian557@gmail.com
+📂 **[Business Analyst Models and Diagrams](https://github.com/JamieChristian22/MyProjects/tree/main/Business%20Analyst%20Models%20and%20Diagrams)**  
+_BPMN diagrams, workflows, and BRDs showcasing process analysis and improvement._  
 
----
+📂 **[Data Analyst Projects](https://github.com/JamieChristian22/MyProjects/tree/main/Data%20Analyst)**  
+_SQL queries, Excel dashboards, and case studies highlighting churn analysis and insights._  
 
-## ⚙️ Tech Stack
+📂 **[Business Intelligence Dashboards](https://github.com/JamieChristian22/MyProjects/tree/main/Business%20Intelligence)**  
+_Power BI dashboards for HR, sales performance, and financial reporting._  
 
-![Power BI](https://img.shields.io/badge/PowerBI-Data_Visualization-yellow)
-![Tableau](https://img.shields.io/badge/Tableau-Dashboards-blue)
-![Excel](https://img.shields.io/badge/Excel-Analysis-green)
-![SQL](https://img.shields.io/badge/SQL-Queries-lightgrey)
-![Lucidchart](https://img.shields.io/badge/Lucidchart-Diagrams-orange)
-![Jira](https://img.shields.io/badge/Jira-Agile-blue)
+📂 **[Requirements Documentation Examples](https://github.com/JamieChristian22/MyProjects/tree/main/Requirement%20Documentation%20Examples)**  
+_Sample business requirements documents for real-world projects._  
 
 ---
 
-## 📁 Featured Projects
+## 📬 Let’s Connect
 
-📂 [Explore My Projects](https://github.com/JamieChristian22/MyProjects)  
-From dashboards and Excel models to documentation and stakeholder diagrams.
+[🔗 LinkedIn](https://linkedin.com/in/jamiechristiananalytics)  
+[📧 Email](mailto:jamiechristian331@gmail.com)  
+[🌐 View My Full Portfolio](https://github.com/JamieChristian22/MyProjects)  
 
 ---
 
-## 📊 GitHub Stats
-
-![Jamie Christian II GitHub Stats](https://github-readme-stats.vercel.app/api?username=JamieChristian22&show_icons=true&theme=default)
+#️⃣ **Actively Exploring Opportunities** | Business Analyst | Data Analyst | Business Intelligence | Process Improvement | Data-Driven Decisions  
