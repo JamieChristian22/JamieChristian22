@@ -2,7 +2,7 @@
 
 🎯 **Business Analyst | Data Analyst | Business Intelligence**  
 
-I help organizations transform data and processes into actionable insights and strategies. My portfolio showcases projects in business analysis, data analytics, and business intelligence—highlighting my ability to uncover insights, design dashboards, and deliver clear documentation for business decisions.  
+I help organizations transform data and processes into actionable insights and strategies. My portfolio showcases projects in business analysis, data analytics, and business intelligence highlighting my ability to uncover insights, design dashboards, and deliver clear documentation for business decisions.  
 
 [![View My Portfolio](https://img.shields.io/badge/View-My_Portfolio-blue)](https://github.com/JamieChristian22/MyProjects)
 
