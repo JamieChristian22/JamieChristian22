@@ -27,7 +27,15 @@ Rather than treating these as disconnected areas, I use projects to understand t
 | Cybersecurity | [Cybersecurity Analyst Portfolio](https://github.com/JamieChristian22/cybersecurity-analyst-portfolio) | Investigations, correlated detections, and testable lab evidence |
 | Cloud engineering | [Multi-Cloud Engineer Portfolio](https://github.com/JamieChristian22/multi-cloud-engineer-portfolio) | Infrastructure-as-code patterns and architecture documentation |
 
-**Browse the [portfolio website](https://jamiechristian22.github.io/)** for a visual project index, or [view all GitHub repositories](https://github.com/JamieChristian22?tab=repositories).
+### Work samples — actual repository assets
+
+| Product discovery and analytics | Business intelligence | Cloud security architecture |
+| :---: | :---: | :---: |
+| [<img src="https://raw.githubusercontent.com/JamieChristian22/product-manager-portfolio/main/Images/dashboard_overview.png" alt="Product management portfolio dashboard preview" width="260">](https://github.com/JamieChristian22/product-manager-portfolio) | [<img src="https://raw.githubusercontent.com/JamieChristian22/business-intelligence-portfolio/main/04_FPNA_Executive_Analytics_PowerBI/Images/fpna_executive_analytics_powerbi_dashboard.png" alt="Executive FP&A Power BI dashboard preview" width="260">](https://github.com/JamieChristian22/business-intelligence-portfolio) | [<img src="https://raw.githubusercontent.com/JamieChristian22/aws-security-networking/main/diagrams/01-network-core.svg" alt="AWS networking security architecture diagram" width="260">](https://github.com/JamieChristian22/aws-security-networking) |
+
+**What makes these useful:** The project pages include supporting source files, requirements, explanations, tests or design decisions—not just a screenshot. Where an example uses fictional data or projected results, the relevant case study identifies that boundary.
+
+**Browse the [portfolio website](https://jamiechristian22.github.io/)** for visual project previews and a recruiter-friendly index, or [view all GitHub repositories](https://github.com/JamieChristian22?tab=repositories).
 
 **Evidence policy:** Portfolio simulations and synthetic results are labeled as such. They are intended to demonstrate approach and skills, not to claim production deployments, client endorsements, or employment history.
 
@@ -63,6 +71,9 @@ My goal is to contribute where **business, users, data, and technology intersect
 | ⚙️ **DevOps & Platform** | Terraform, Docker, Kubernetes, CI/CD, GitHub Actions, GitOps, automation, observability |
 
 ---
+
+<details>
+<summary><strong>Full technical capabilities, toolkits and expanded repository index</strong></summary>
 
 # 🚀 Product & Technical Product
 
@@ -810,3 +821,6 @@ Explore my repositories for hands-on projects, case studies, dashboards, technic
 The goal of this profile is to demonstrate **breadth with a clear connection between each area**, rather than presenting each technology or discipline as an unrelated career path.
 
 The individual resume used for each application should be tailored to that specific role, while this GitHub profile serves as the broader technical and business portfolio.
+
+
+</details>
