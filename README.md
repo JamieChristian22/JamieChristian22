@@ -27,6 +27,25 @@ Rather than treating these as disconnected areas, I use projects to understand t
 | Cybersecurity | [Cybersecurity Analyst Portfolio](https://github.com/JamieChristian22/cybersecurity-analyst-portfolio) | Investigations, correlated detections, and testable lab evidence |
 | Cloud engineering | [Multi-Cloud Engineer Portfolio](https://github.com/JamieChristian22/multi-cloud-engineer-portfolio) | Infrastructure-as-code patterns and architecture documentation |
 
+## GitHub Sponsors · Six featured projects
+
+These six public repositories are the projects selected to highlight alongside [GitHub Sponsors](https://github.com/sponsors/JamieChristian22). Each has its own funding link and supporting technical documentation.
+
+| Project | What sponsorship helps maintain | Explore |
+| --- | --- | --- |
+| **1. Business Analyst Portfolio** | Requirements templates, process diagrams, case-study documentation, and dashboards | [View project](https://github.com/JamieChristian22/Business-Analyst-Portfolio2) |
+| **2. Cloud Security & Operations Platform** | Multi-cloud security labs, IAM controls, incident playbooks, and platform validation | [View project](https://github.com/JamieChristian22/cloud-security-operations-platform) |
+| **3. Multi-Cloud DevOps Engineering** | Terraform, CI/CD, Kubernetes, GitOps examples, and automated checks | [View project](https://github.com/JamieChristian22/multi-cloud-devops-engineering-projects) |
+| **4. Cybersecurity Analyst Portfolio** | SOC case studies, detection logic, security automation, and reproducible testing | [View project](https://github.com/JamieChristian22/cybersecurity-analyst-portfolio) |
+| **5. Data Engineering Portfolio** | Python/SQL pipelines, data modeling, reproducibility, and documentation | [View project](https://github.com/JamieChristian22/data-engineering-portfolio) |
+| **6. Data Science Portfolio** | Modeling experiments, evaluation reports, data quality, and learning resources | [View project](https://github.com/JamieChristian22/data-science-portfolio) |
+
+[![Support these projects on GitHub Sponsors](https://img.shields.io/badge/Support%20these%20projects-GitHub%20Sponsors-EA4AAA?logo=githubsponsors&logoColor=white)](https://github.com/sponsors/JamieChristian22)
+
+*Sponsorship is optional. These are independent portfolio projects; sponsoring does not purchase guaranteed results, endorsements, or influence over technical findings.*
+
+---
+
 ### Work samples — actual repository assets
 
 | Product discovery and analytics | Business intelligence | Cloud security architecture |
@@ -775,40 +794,18 @@ Explore my repositories for hands-on projects, case studies, dashboards, technic
 
 **🚀 Product • ☁️ Cloud & IT • 🔐 Cybersecurity • 📊 Data & BI | AWS • Azure • GCP • SQL • Python**
 
-## Recommended Pinned Repositories
+## Recommended GitHub Profile Pins — Sponsor Projects
 
-1. **`product-manager-portfolio`**
-   - Product Management
-   - Technical Product
-   - Product Operations
+Feature these **six specific repositories**, in this order, using GitHub's **Customize your pins** control:
 
-2. **`business-intelligence-portfolio`**
-   - BI Analyst
-   - Data Analyst
-   - Business Analytics
+1. [Business-Analyst-Portfolio2](https://github.com/JamieChristian22/Business-Analyst-Portfolio2)
+2. [cloud-security-operations-platform](https://github.com/JamieChristian22/cloud-security-operations-platform)
+3. [multi-cloud-devops-engineering-projects](https://github.com/JamieChristian22/multi-cloud-devops-engineering-projects)
+4. [cybersecurity-analyst-portfolio](https://github.com/JamieChristian22/cybersecurity-analyst-portfolio)
+5. [data-engineering-portfolio](https://github.com/JamieChristian22/data-engineering-portfolio)
+6. [data-science-portfolio](https://github.com/JamieChristian22/data-science-portfolio)
 
-3. **`cloud-support-operations-portfolio`**
-   - Cloud Support
-   - Cloud Operations
-   - Technical Support
-
-4. **`cybersecurity-analyst-portfolio`**
-   - Cybersecurity
-   - SOC
-   - IAM
-   - Security Operations
-
-5. **`enterprise-it-support-and-systems-operations`**
-   - IT Support
-   - Microsoft 365
-   - Active Directory
-   - Systems Administration
-
-6. **`cloud-platform-engineering-lab`**
-   - Cloud Engineering
-   - DevOps
-   - Platform Engineering
-   - Infrastructure as Code
+These are the six GitHub Sponsors projects selected for your profile. The README links are updated here; **GitHub's native pinned-repository setting must still be saved separately** through the account UI.
 
 ## Portfolio Positioning
 
