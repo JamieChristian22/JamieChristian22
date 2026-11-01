@@ -41,6 +41,8 @@ Rather than treating these as disconnected areas, I use projects to understand t
 
 **Connect:** [LinkedIn](https://www.linkedin.com/in/jamiechristian2/) · [GitHub Sponsors](https://github.com/sponsors/JamieChristian22)
 
+**Profile maintenance:** [GitHub settings and pins checklist](GITHUB_PROFILE_FINISH.md) (with optional dry-run repository metadata script).
+
 ---
 
 
