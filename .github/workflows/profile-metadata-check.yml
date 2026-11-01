@@ -1,0 +1,45 @@
+name: Profile metadata helper checks
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - tools/finish_github_settings.py
+      - .github/workflows/profile-metadata-check.yml
+  pull_request:
+    paths:
+      - tools/finish_github_settings.py
+      - .github/workflows/profile-metadata-check.yml
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  offline-helper-validation:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Check Python syntax
+        run: python -m py_compile tools/finish_github_settings.py
+      - name: Check 10-repository dry run
+        run: |
+          python tools/finish_github_settings.py > /tmp/github-metadata-preview.txt
+          python - <<'PY'
+          from pathlib import Path
+          report = Path('/tmp/github-metadata-preview.txt').read_text()
+          assert report.count('gh repo edit JamieChristian22/') == 10, report
+          assert 'DRY RUN: no GitHub settings were changed.' in report
+          PY
+      - name: Check single-repository dry run
+        run: |
+          python tools/finish_github_settings.py --only jamiechristian22.github.io > /tmp/github-single-preview.txt
+          python - <<'PY'
+          from pathlib import Path
+          report = Path('/tmp/github-single-preview.txt').read_text()
+          assert report.count('gh repo edit JamieChristian22/') == 1, report
+          assert 'gh repo edit JamieChristian22/jamiechristian22.github.io' in report
+          PY
