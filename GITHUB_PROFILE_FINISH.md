@@ -56,20 +56,20 @@ The Website field on your **personal GitHub user profile** is a separate setting
 
 The connected repository editing tools cannot change this personal account setting.
 
-## 3. Pin exactly six flagship repositories
+## 3. Pin the six GitHub Sponsors repositories
 
-Open [your GitHub profile](https://github.com/JamieChristian22), click **Customize your pins** in the Popular repositories/Pinned section, select these public repositories, and click **Save pins**:
+The following **six public repositories** are the chosen GitHub Sponsors projects. All six were checked to have a GitHub Sponsors funding link in their `.github/FUNDING.yml` file.
 
-| Recommended order | Repository | Reason |
-| --- | --- | --- |
-| 1 | [Business Analyst Portfolio2](https://github.com/JamieChristian22/Business-Analyst-Portfolio2) | Requirements, documentation, system workflows |
-| 2 | [Data Analyst Portfolio](https://github.com/JamieChristian22/data-analyst-portfolio) | SQL, Python, analysis, and data quality |
-| 3 | [Project Coordinator Portfolio](https://github.com/JamieChristian22/project-coordinator-portfolio) | Project delivery, risks, process coordination |
-| 4 | [Product Manager Portfolio](https://github.com/JamieChristian22/product-manager-portfolio) | Six product decision cases with linked artifacts |
-| 5 | [Cybersecurity Analyst Portfolio](https://github.com/JamieChristian22/cybersecurity-analyst-portfolio) | Security monitoring, investigation, documentation |
-| 6 | [Multi-Cloud Engineer Portfolio](https://github.com/JamieChristian22/multi-cloud-engineer-portfolio) | AWS/Azure/GCP platform concepts and evidence |
+1. [Business-Analyst-Portfolio2](https://github.com/JamieChristian22/Business-Analyst-Portfolio2)
+2. [cloud-security-operations-platform](https://github.com/JamieChristian22/cloud-security-operations-platform)
+3. [multi-cloud-devops-engineering-projects](https://github.com/JamieChristian22/multi-cloud-devops-engineering-projects)
+4. [cybersecurity-analyst-portfolio](https://github.com/JamieChristian22/cybersecurity-analyst-portfolio)
+5. [data-engineering-portfolio](https://github.com/JamieChristian22/data-engineering-portfolio)
+6. [data-science-portfolio](https://github.com/JamieChristian22/data-science-portfolio)
 
-For a cloud/security-only campaign, consider swapping one business-focused pin for [AWS Security & Networking](https://github.com/JamieChristian22/aws-security-networking). GitHub allows up to six pinned items, including repositories/gists.
+**Set the actual pins:** Open [JamieChristian22 on GitHub](https://github.com/JamieChristian22), click **Customize your pins**, select the six exact repositories above, optionally drag to reorder, then click **Save pins**. GitHub supports up to six selected items. Editing a README does not modify the actual pinned repositories.
+
+The profile README already contains a [GitHub Sponsors feature section](README.md) with links to all six projects and the [GitHub Sponsors page](https://github.com/sponsors/JamieChristian22). This highlights them even before the native pins are saved.
 
 ## 4. Check the completed result
 
@@ -77,7 +77,7 @@ For a cloud/security-only campaign, consider swapping one business-focused pin f
 - [ ] The [profile README repository](https://github.com/JamieChristian22/JamieChristian22) no longer links to an outdated homepage
 - [ ] [Product Manager](https://github.com/JamieChristian22/product-manager-portfolio) and [Data Science](https://github.com/JamieChristian22/data-science-portfolio) now accurately describe their implemented case studies without claiming unverified production business outcomes
 - [ ] The profile Website field goes to the portfolio
-- [ ] Six selected repositories are pinned
+- [ ] The six GitHub Sponsors repositories above are pinned (not the old six from general job-search positioning)
 - [ ] The [portfolio website](https://jamiechristian22.github.io/) still opens and displays eight self-hosted project images
 - [ ] All relevant [GitHub Actions checks](https://github.com/JamieChristian22/jamiechristian22.github.io/actions) remain green
 
