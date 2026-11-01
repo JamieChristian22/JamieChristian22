@@ -14,6 +14,28 @@ Rather than treating these as disconnected areas, I use projects to understand t
 
 ---
 
+## Start here · Selected evidence
+
+**Business problems → product and systems decisions → analytics → cloud and security execution.** If you're reviewing this profile for a specific role, the six repositories below are the fastest way to see the work.
+
+| Focus | Featured repository | What to review |
+| --- | --- | --- |
+| Business analysis | [Business Analyst Portfolio](https://github.com/JamieChristian22/Business-Analyst-Portfolio2) | Requirements, process modeling, technical documentation and dashboards |
+| Data analytics | [Data Analyst Portfolio](https://github.com/JamieChristian22/data-analyst-portfolio) | Reproducible SQL/Python workflows and validation |
+| Project delivery | [Project Coordinator Portfolio](https://github.com/JamieChristian22/project-coordinator-portfolio) | Case studies with explicit simulation and evidence disclosures |
+| Product management | [Product Manager Portfolio](https://github.com/JamieChristian22/product-manager-portfolio) | Six product decision case studies and planning artifacts |
+| Cybersecurity | [Cybersecurity Analyst Portfolio](https://github.com/JamieChristian22/cybersecurity-analyst-portfolio) | Investigations, correlated detections, and testable lab evidence |
+| Cloud engineering | [Multi-Cloud Engineer Portfolio](https://github.com/JamieChristian22/multi-cloud-engineer-portfolio) | Infrastructure-as-code patterns and architecture documentation |
+
+**Browse the [portfolio website](https://jamiechristian22.github.io/)** for a visual project index, or [view all GitHub repositories](https://github.com/JamieChristian22?tab=repositories).
+
+**Evidence policy:** Portfolio simulations and synthetic results are labeled as such. They are intended to demonstrate approach and skills, not to claim production deployments, client endorsements, or employment history.
+
+**Connect:** [LinkedIn](https://www.linkedin.com/in/jamiechristian2/) · [GitHub Sponsors](https://github.com/sponsors/JamieChristian22)
+
+---
+
+
 ## 👨🏾‍💻 About Me
 
 I'm a business and technology professional with a **B.S. in Entrepreneurial Management** and hands-on project experience across product, cloud, cybersecurity, IT operations, business analysis, analytics, and infrastructure.
