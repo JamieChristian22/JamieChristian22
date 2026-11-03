@@ -16,6 +16,8 @@ Rather than treating these as disconnected areas, I use projects to understand t
 
 ## Start here · Selected evidence
 
+**Quick recruiter guide:** [Six evidence-first projects with direct demos, tests and verification links](RECRUITER_START_HERE.md).
+
 **Business problems → product and systems decisions → analytics → cloud and security execution.** If you're reviewing this profile for a specific role, the eight repositories below are the fastest way to see the work.
 
 | Focus | Featured repository | What to review |
@@ -33,7 +35,7 @@ Rather than treating these as disconnected areas, I use projects to understand t
 
 - **Hiring and collaboration:** Explore the role-focused repositories above for reviewable case studies, project documentation and technical examples. Simulated outcomes are identified in the individual projects.
 - **Digital business services:** [View freelance services on Ko-fi](https://ko-fi.com/jamiechristian) for spreadsheet work, data cleaning, dashboards and business documentation. Scope, availability and pricing are confirmed before a project begins.
-- **Nexora AI:** [Follow the Nexora project overview](https://github.com/JamieChristian22/nexora-ai). The public repository is an overview only, **not** a downloadable application or live demo.
+- **Nexora AI:** Private product development is ongoing. There is no publicly released application or public source repository to evaluate yet; planned features are not presented as shipped functionality.
 
 ---
 
