@@ -16,16 +16,26 @@ Rather than treating these as disconnected areas, I use projects to understand t
 
 ## Start here · Selected evidence
 
-**Business problems → product and systems decisions → analytics → cloud and security execution.** If you're reviewing this profile for a specific role, the six repositories below are the fastest way to see the work.
+**Business problems → product and systems decisions → analytics → cloud and security execution.** If you're reviewing this profile for a specific role, the eight repositories below are the fastest way to see the work.
 
 | Focus | Featured repository | What to review |
 | --- | --- | --- |
 | Business analysis | [Business Analyst Portfolio](https://github.com/JamieChristian22/Business-Analyst-Portfolio2) | Requirements, process modeling, technical documentation and dashboards |
 | Data analytics | [Data Analyst Portfolio](https://github.com/JamieChristian22/data-analyst-portfolio) | Reproducible SQL/Python workflows and validation |
+| Enterprise IT support | [Enterprise IT Support & Systems Operations](https://github.com/JamieChristian22/enterprise-it-support-and-systems-operations) | Troubleshooting, Microsoft 365 identity investigations, tickets and runbooks |
+| Cloud support | [Cloud Support & Operations](https://github.com/JamieChristian22/cloud-support-operations-portfolio) | Five support scenarios, incident evidence and offline validation |
 | Project delivery | [Project Coordinator Portfolio](https://github.com/JamieChristian22/project-coordinator-portfolio) | Case studies with explicit simulation and evidence disclosures |
 | Product management | [Product Manager Portfolio](https://github.com/JamieChristian22/product-manager-portfolio) | Six product decision case studies and planning artifacts |
 | Cybersecurity | [Cybersecurity Analyst Portfolio](https://github.com/JamieChristian22/cybersecurity-analyst-portfolio) | Investigations, correlated detections, and testable lab evidence |
 | Cloud engineering | [Multi-Cloud Engineer Portfolio](https://github.com/JamieChristian22/multi-cloud-engineer-portfolio) | Infrastructure-as-code patterns and architecture documentation |
+
+## Work with me and explore current development
+
+- **Hiring and collaboration:** Explore the role-focused repositories above for reviewable case studies, project documentation and technical examples. Simulated outcomes are identified in the individual projects.
+- **Digital business services:** [View freelance services on Ko-fi](https://ko-fi.com/jamiechristian) for spreadsheet work, data cleaning, dashboards and business documentation. Scope, availability and pricing are confirmed before a project begins.
+- **Nexora AI:** [Follow the Nexora project overview](https://github.com/JamieChristian22/nexora-ai). The public repository is an overview only, **not** a downloadable application or live demo.
+
+---
 
 ## GitHub Sponsors · Six featured projects
 
