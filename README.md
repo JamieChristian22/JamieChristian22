@@ -833,3 +833,7 @@ The individual resume used for each application should be tailored to that speci
 
 
 </details>
+
+## License and third-party materials
+
+See [LICENSE](LICENSE) for the repository license. Third-party code, datasets, images, and other assets retain their respective terms.
