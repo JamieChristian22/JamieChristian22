@@ -2,6 +2,8 @@
 
 I'm open to discussing **legitimate, clearly scoped paid collaborations** related to the public work in my [GitHub portfolio](README.md). These are possible ways to work together; this page is not a claim of existing paid clients, corporate contracts, active bounties, or guaranteed service capacity.
 
+**Choose a next step:** [View three remote freelance services](PAID_SERVICES.md) · [Sponsor my public work](https://github.com/sponsors/JamieChristian22) · [Support or browse current Ko-fi listings](https://ko-fi.com/jamiechristian) · [Review suggested sponsor tiers and pinned projects](SPONSORSHIP_SETUP.md)
+
 ## 1. Company-funded maintenance & scoped bounties
 
 Organizations, project maintainers, and community partners can propose funded work such as:
