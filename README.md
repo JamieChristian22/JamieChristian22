@@ -8,6 +8,8 @@ I'm a business and technology professional with a **B.S. in Entrepreneurial Mana
 
 **I'm interested in early-career, U.S.-remote opportunities** across cloud/platform engineering, IT and technical operations, cybersecurity, business and systems analysis, data/BI, financial and marketing analysis, product, and project/program delivery.
 
+🌍 **Global developer connections:** I'm happy to connect with and learn from developers around the world, exchange feedback, and collaborate on open-source projects. *(My employment search is focused on U.S.-remote roles.)*
+
 [**🌐 Portfolio website**](https://jamiechristian22.github.io/) · [**💼 LinkedIn**](https://www.linkedin.com/in/jamiechristian2/) · [**🔎 Recruiter quick start**](RECRUITER_START_HERE.md) · [**📂 All repositories**](https://github.com/JamieChristian22?tab=repositories)
 
 ---
@@ -166,7 +168,7 @@ My background in business operations informs how I work through stakeholder need
 
 ## 🤝 Explore, connect & collaborate
 
-I share work across **cloud, security, data, business analysis, product, and operations**. If something here helps you:
+I share work across **cloud, security, data, business analysis, product, and operations** with developers everywhere. Feedback, ideas, and respectful collaboration are welcome regardless of location. If something here helps you:
 
 - ⭐ **Star** a repository you find useful or want to revisit.
 - 💬 **Open an issue or discussion** with a question or constructive improvement idea, where enabled.
