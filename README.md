@@ -12,7 +12,7 @@ I'm a business and technology professional with a **B.S. in Entrepreneurial Mana
 
 [**🌐 Portfolio website**](https://jamiechristian22.github.io/) · [**💼 LinkedIn**](https://www.linkedin.com/in/jamiechristian2/) · [**🔎 Recruiter quick start**](RECRUITER_START_HERE.md) · [**📂 All repositories**](https://github.com/JamieChristian22?tab=repositories)
 
-**For funded work or sponsorship:** [💼 Paid services](PAID_SERVICES.md) · [🤝 Collaboration inquiries](WORK_WITH_ME.md) · [❤️ GitHub Sponsors](https://github.com/sponsors/JamieChristian22)
+**For funded work or sponsorship:** [💼 Paid services](PAID_SERVICES.md) · [🤝 Funded maintenance & bounties](FUNDED_WORK.md) · [💬 Collaboration inquiries](WORK_WITH_ME.md) · [❤️ GitHub Sponsors](https://github.com/sponsors/JamieChristian22)
 
 ---
 
