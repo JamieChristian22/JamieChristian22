@@ -12,6 +12,8 @@ I'm a business and technology professional with a **B.S. in Entrepreneurial Mana
 
 [**🌐 Portfolio website**](https://jamiechristian22.github.io/) · [**💼 LinkedIn**](https://www.linkedin.com/in/jamiechristian2/) · [**🔎 Recruiter quick start**](RECRUITER_START_HERE.md) · [**📂 All repositories**](https://github.com/JamieChristian22?tab=repositories)
 
+**For funded work or sponsorship:** [💼 Paid services](PAID_SERVICES.md) · [🤝 Collaboration inquiries](WORK_WITH_ME.md) · [❤️ GitHub Sponsors](https://github.com/sponsors/JamieChristian22)
+
 ---
 
 ## 🎯 For recruiters & hiring teams — choose a career path
@@ -175,6 +177,8 @@ Alongside sharing my projects, I'm open to **scoped paid work and professional c
 | **Company-funded maintenance & bounties** | Propose clearly funded documentation, testing, reproducibility, analytics, or maintenance tasks. Scope, payment, acceptance criteria, and authorization must be agreed on **before** work starts. |
 | **Open-source support & digital resources** | [GitHub Sponsors](https://github.com/sponsors/JamieChristian22) supports ongoing public work. [Ko-fi](https://ko-fi.com/jamiechristian) is another option for support, services, and any listed digital resources. |
 | **Career & freelance opportunities** | U.S.-remote early-career roles, plus remote contract projects involving Excel/SQL, Power BI, data quality, business analysis, technical documentation, and cloud/IT operations. [Connect on LinkedIn](https://www.linkedin.com/in/jamiechristian2/). |
+
+**Next steps:** [Hire for a defined remote project](PAID_SERVICES.md) · [Propose funded maintenance or a bounty](WORK_WITH_ME.md) · [Support ongoing open-source work](https://github.com/sponsors/JamieChristian22) · [See the sponsor plan](SPONSORSHIP_SETUP.md).
 
 **[Explore collaboration options, scope, and next steps](WORK_WITH_ME.md).** Existing open-source projects and their licenses remain in place; paid offerings are separate and subject to availability and agreed terms. No active company-funded agreement or paid bounty is implied.
 
