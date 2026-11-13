@@ -1,0 +1,38 @@
+name: Profile navigation and no-cost onboarding checks
+
+on:
+  pull_request:
+    paths:
+      - '*.md'
+      - tools/check_profile_navigation.py
+      - tests/test_profile_navigation.py
+      - .github/workflows/profile-navigation.yml
+  push:
+    branches: [main]
+    paths:
+      - '*.md'
+      - tools/check_profile_navigation.py
+      - tests/test_profile_navigation.py
+      - .github/workflows/profile-navigation.yml
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  profile-navigation:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+        with:
+          persist-credentials: false
+      - uses: actions/setup-python@a26af69be951a213d495a4c3e4e4022e16d87065 # v5
+        with:
+          python-version: '3.11'
+      - name: Check script syntax and run unit tests
+        run: |
+          python -m py_compile tools/check_profile_navigation.py
+          python -m unittest discover -s tests -p test_profile_navigation.py -v
+      - name: Validate profile navigation and local documentation links
+        run: python tools/check_profile_navigation.py
