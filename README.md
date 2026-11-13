@@ -166,6 +166,20 @@ My background in business operations informs how I work through stakeholder need
 
 ---
 
+## 💼 Work with me · Open-source funding & paid opportunities
+
+Alongside sharing my projects, I'm open to **scoped paid work and professional collaborations** that match the skills demonstrated in this portfolio.
+
+| Opportunity | Ways to work together |
+| --- | --- |
+| **Company-funded maintenance & bounties** | Propose clearly funded documentation, testing, reproducibility, analytics, or maintenance tasks. Scope, payment, acceptance criteria, and authorization must be agreed on **before** work starts. |
+| **Open-source support & digital resources** | [GitHub Sponsors](https://github.com/sponsors/JamieChristian22) supports ongoing public work. [Ko-fi](https://ko-fi.com/jamiechristian) is another option for support, services, and any listed digital resources. |
+| **Career & freelance opportunities** | U.S.-remote early-career roles, plus remote contract projects involving Excel/SQL, Power BI, data quality, business analysis, technical documentation, and cloud/IT operations. [Connect on LinkedIn](https://www.linkedin.com/in/jamiechristian2/). |
+
+**[Explore collaboration options, scope, and next steps](WORK_WITH_ME.md).** Existing open-source projects and their licenses remain in place; paid offerings are separate and subject to availability and agreed terms. No active company-funded agreement or paid bounty is implied.
+
+---
+
 ## 🤝 Explore, connect & collaborate
 
 I share work across **cloud, security, data, business analysis, product, and operations** with developers everywhere. Feedback, ideas, and respectful collaboration are welcome regardless of location. If something here helps you:
