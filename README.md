@@ -36,18 +36,22 @@ Each link leads to **project evidence**, not a claim of production employment. R
 
 ---
 
-## ⭐ Featured work — a cross-functional sample
+## ⭐ Featured work — six projects to start with
 
-| Featured project | What it demonstrates |
-| --- | --- |
-| [☁️ Cloud Platform Engineering Lab](https://github.com/JamieChristian22/cloud-platform-engineering-lab) | Architecture, infrastructure, automation, and operations concepts |
-| [🖥️ Enterprise IT & Systems Operations](https://github.com/JamieChristian22/enterprise-it-support-and-systems-operations) | User/system support workflows, investigation, and documentation |
-| [🔐 Cybersecurity Analyst Portfolio](https://github.com/JamieChristian22/cybersecurity-analyst-portfolio) | Security investigations and defensive analysis |
-| [📊 Business Intelligence Portfolio](https://github.com/JamieChristian22/business-intelligence-portfolio) | Business dashboards, KPIs, and reporting |
-| [📈 Business Analyst Portfolio](https://github.com/JamieChristian22/Business-Analyst-Portfolio2) | Requirements, process analysis, and stakeholder-focused deliverables |
-| [🚀 Product Manager Portfolio](https://github.com/JamieChristian22/product-manager-portfolio) | Product decisions, requirements, and prioritization |
-| [💰 Financial Analyst Portfolio](https://github.com/JamieChristian22/financial-analyst-portfolio) | Financial-analysis examples and decision support |
-| [📋 Project Coordinator Portfolio](https://github.com/JamieChristian22/project-coordinator-portfolio) | Project planning, tracking, and delivery documentation |
+These six repositories represent distinct ways to **learn from, evaluate, and support** my work. Each starts with free public evidence and documentation. A GitHub star, follow, or sponsorship is always optional.
+
+| Featured repository | What to explore first | What it demonstrates |
+| --- | --- | --- |
+| [📈 Business Analyst Portfolio](https://github.com/JamieChristian22/Business-Analyst-Portfolio2) | [Requirements and process evidence](https://github.com/JamieChristian22/Business-Analyst-Portfolio2/blob/main/REVIEWER_GUIDE.md) | Requirements, traceability, process analysis and stakeholder decisions |
+| [🔐 Cybersecurity Analyst Portfolio](https://github.com/JamieChristian22/cybersecurity-analyst-portfolio) | [Synthetic SOC lab guide](https://github.com/JamieChristian22/cybersecurity-analyst-portfolio/blob/main/docs/LAB_GUIDE.md) | Reproducible investigations, Python/SQL detection and incident documentation |
+| [📊 Data Analyst Portfolio](https://github.com/JamieChristian22/data-analyst-portfolio) | [Offline analytics explorer](https://github.com/JamieChristian22/data-analyst-portfolio/blob/main/demo/analytics-explorer.html) | Five analytics scenarios, source-to-KPI checks and reproducible workflows |
+| [💰 Financial Analyst Portfolio](https://github.com/JamieChristian22/financial-analyst-portfolio) | [Financial project overview](https://github.com/JamieChristian22/financial-analyst-portfolio#readme) | Modeling, budgets, forecasting and decision support |
+| [☁️ Cloud Platform Engineering Lab](https://github.com/JamieChristian22/cloud-platform-engineering-lab) | [Platform architecture walkthrough](https://github.com/JamieChristian22/cloud-platform-engineering-lab#readme) | AWS governance, landing zones and infrastructure-as-code concepts |
+| [⚙️ Multi-Cloud DevOps Projects](https://github.com/JamieChristian22/multi-cloud-devops-engineering-projects) | [DevOps project overview](https://github.com/JamieChristian22/multi-cloud-devops-engineering-projects#readme) | Terraform, CI/CD, cloud automation, GitOps and operations |
+
+**Choose a path:** [🌍 Free developer quick start](DEVELOPER_START_HERE.md) · [🎯 Recruiter evidence guide](RECRUITER_START_HERE.md) · [💼 Paid work and collaborations](WORK_WITH_ME.md) · [❤️ Voluntary GitHub Sponsors](https://github.com/sponsors/JamieChristian22).
+
+The remaining public portfolios—including IT support, business intelligence, product, and project delivery—are still available in the career-focused directory below. These are independent projects; simulated scenarios and lab results are not claims of client deployments.
 
 ### A few visual work samples
 
