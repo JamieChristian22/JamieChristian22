@@ -29,6 +29,6 @@ Contact via [LinkedIn](https://www.linkedin.com/in/jamiechristian2/) or a releva
 
 ### How this differs from open-source sponsorship
 
-[GitHub Sponsors](https://github.com/sponsors/JamieChristian22) and voluntary Ko-fi support help fund public educational development. They **do not** automatically buy a custom deliverable, support service, bounty award, or response-time guarantee. For separately funded maintenance, see [the collaboration guide](WORK_WITH_ME.md).
+[GitHub Sponsors](https://github.com/sponsors/JamieChristian22) and voluntary Ko-fi support help fund public educational development. They **do not** automatically buy a custom deliverable, support service, bounty award, or response-time guarantee. For separately funded maintenance and bounties, see [the funded-work guide](FUNDED_WORK.md) and [the collaboration guide](WORK_WITH_ME.md).
 
 [Back to GitHub profile](README.md)
