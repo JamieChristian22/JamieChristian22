@@ -38,7 +38,8 @@ Each link leads to **project evidence**, not a claim of production employment. R
 
 | Featured project | What it demonstrates |
 | --- | --- |
-| [🛠️ Cloud Troubleshooting & Reliability Lab](https://github.com/JamieChristian22/cloud-infrastructure-troubleshooting-lab) | Working Python incident simulator, API diagnostics, metrics, fault injection, 19 automated tests, and recorded recovery evidence |\n| [☁️ Cloud Platform Engineering Lab](https://github.com/JamieChristian22/cloud-platform-engineering-lab) | Architecture, infrastructure, automation, and operations concepts |
+| [🛠️ Cloud Troubleshooting & Reliability Lab](https://github.com/JamieChristian22/cloud-infrastructure-troubleshooting-lab) | Working Python incident simulator, API diagnostics, metrics, fault injection, 19 automated tests, and recorded recovery evidence |
+| [☁️ Cloud Platform Engineering Lab](https://github.com/JamieChristian22/cloud-platform-engineering-lab) | Architecture, infrastructure, automation, and operations concepts |
 | [🖥️ Enterprise IT & Systems Operations](https://github.com/JamieChristian22/enterprise-it-support-and-systems-operations) | User/system support workflows, investigation, and documentation |
 | [🔐 Cybersecurity Analyst Portfolio](https://github.com/JamieChristian22/cybersecurity-analyst-portfolio) | Security investigations and defensive analysis |
 | [📊 Business Intelligence Portfolio](https://github.com/JamieChristian22/business-intelligence-portfolio) | Business dashboards, KPIs, and reporting |
