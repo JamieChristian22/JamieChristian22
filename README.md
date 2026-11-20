@@ -20,8 +20,8 @@ Each link leads to **project evidence**, not a claim of production employment. R
 
 | Career direction | Relevant portfolios |
 | --- | --- |
-| **Cloud / Platform / DevOps Engineer** | [Platform Engineering](https://github.com/JamieChristian22/cloud-platform-engineering-lab) · [Multi-Cloud Engineering](https://github.com/JamieChristian22/multi-cloud-engineer-portfolio) · [DevOps](https://github.com/JamieChristian22/multi-cloud-devops-engineering-projects) |
-| **Cloud Support / IT Support / Technical Operations / Implementation** | [Cloud Support](https://github.com/JamieChristian22/cloud-support-operations-portfolio) · [Enterprise IT & Systems](https://github.com/JamieChristian22/enterprise-it-support-and-systems-operations) |
+| **Cloud / Platform / DevOps Engineer** | [Platform Engineering](https://github.com/JamieChristian22/cloud-platform-engineering-lab) · [Multi-Cloud Engineering](https://github.com/JamieChristian22/multi-cloud-engineer-portfolio) · [DevOps](https://github.com/JamieChristian22/multi-cloud-devops-engineering-projects) · [Troubleshooting & Reliability](https://github.com/JamieChristian22/cloud-infrastructure-troubleshooting-lab) |
+| **Cloud Support / IT Support / Technical Operations / Implementation** | [Cloud Support](https://github.com/JamieChristian22/cloud-support-operations-portfolio) · [Troubleshooting & Reliability](https://github.com/JamieChristian22/cloud-infrastructure-troubleshooting-lab) · [Enterprise IT & Systems](https://github.com/JamieChristian22/enterprise-it-support-and-systems-operations) |
 | **Cybersecurity / SOC / Cloud Security / IAM** | [Cybersecurity Analysis](https://github.com/JamieChristian22/cybersecurity-analyst-portfolio) · [Cloud Security Operations](https://github.com/JamieChristian22/cloud-security-operations-platform) · [AWS Security](https://github.com/JamieChristian22/aws-security-networking) |
 | **Data Analyst / BI Developer / Reporting Analyst** | [Data Analytics](https://github.com/JamieChristian22/data-analyst-portfolio) · [Business Intelligence](https://github.com/JamieChristian22/business-intelligence-portfolio) |
 | **Data Operations / Data Engineering / Data Science** | [Data Operations](https://github.com/JamieChristian22/professional-data-operations-portfolio-) · [Data Engineering](https://github.com/JamieChristian22/data-engineering-portfolio) · [Data Science](https://github.com/JamieChristian22/data-science-portfolio) |
@@ -38,7 +38,7 @@ Each link leads to **project evidence**, not a claim of production employment. R
 
 | Featured project | What it demonstrates |
 | --- | --- |
-| [☁️ Cloud Platform Engineering Lab](https://github.com/JamieChristian22/cloud-platform-engineering-lab) | Architecture, infrastructure, automation, and operations concepts |
+| [🛠️ Cloud Troubleshooting & Reliability Lab](https://github.com/JamieChristian22/cloud-infrastructure-troubleshooting-lab) | Working Python incident simulator, API diagnostics, metrics, fault injection, 19 automated tests, and recorded recovery evidence |\n| [☁️ Cloud Platform Engineering Lab](https://github.com/JamieChristian22/cloud-platform-engineering-lab) | Architecture, infrastructure, automation, and operations concepts |
 | [🖥️ Enterprise IT & Systems Operations](https://github.com/JamieChristian22/enterprise-it-support-and-systems-operations) | User/system support workflows, investigation, and documentation |
 | [🔐 Cybersecurity Analyst Portfolio](https://github.com/JamieChristian22/cybersecurity-analyst-portfolio) | Security investigations and defensive analysis |
 | [📊 Business Intelligence Portfolio](https://github.com/JamieChristian22/business-intelligence-portfolio) | Business dashboards, KPIs, and reporting |
