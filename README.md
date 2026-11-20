@@ -1,18 +1,20 @@
-# Jamie Christian II | Cloud & Platform Engineering
+# 👋 Hi, I'm Jamie Christian II
 
-**Cloud Engineering • Platform Operations • Cloud Support • Infrastructure Automation • Cloud Security**
+### 🚀 Product & Technology | ☁️ Cloud & IT | 🔐 Cybersecurity | 📊 Data, BI & Business
 
-I build and document hands-on cloud infrastructure, troubleshooting, security, and automation projects across **AWS, Azure, and Google Cloud**. My work connects infrastructure design with the day-to-day practices that make systems supportable: diagnosing failures, validating changes, managing access, monitoring services, and documenting recovery.
+**Primary focus: Cloud & Platform Engineering** · Cloud Support · Infrastructure Automation · Cloud Security
+
+I build and document hands-on cloud infrastructure, troubleshooting, security, and automation projects across **AWS, Azure, and Google Cloud**. **Cloud and platform engineering are my primary focus**, supported by work in **product and technology, cybersecurity, data, business intelligence, and business analysis**. I connect technical implementation with real user needs, reliable operations, and measurable business value.
 
 I'm an early-career technology professional with a **B.S. in Entrepreneurial Management (cum laude)** from Virginia Union University and experience in remote business operations, issue resolution, reporting, and documentation. My technical portfolio includes **labs, simulations, and independently developed projects**—not claims of production employment.
 
-**Open to U.S.-remote, entry-level and associate opportunities** in cloud/platform engineering, cloud support, infrastructure and technical operations, and cloud security/IAM. I also bring project work in business analysis, data/BI, and product delivery.
+**Open to U.S.-remote, entry-level and associate opportunities** in cloud/platform engineering, cloud support, infrastructure and technical operations, and cloud security/IAM. My broader portfolio also demonstrates product thinking, business and systems analysis, data/BI reporting, and project delivery.
 
 [**Portfolio website**](https://jamiechristian22.github.io/) · [**Recruiter guide**](RECRUITER_START_HERE.md) · [**LinkedIn**](https://www.linkedin.com/in/jamiechristian2/) · [**All repositories**](https://github.com/JamieChristian22?tab=repositories)
 
 ---
 
-## Start here: engineering evidence
+## ☁️ Featured cloud & engineering work — primary focus
 
 | Project | What to inspect |
 | --- | --- |
@@ -33,6 +35,17 @@ I'm an early-career technology professional with a **B.S. in Entrepreneurial Man
 - **Operations and reliability:** Linux, networking diagnostics, monitoring, incident triage, escalation, runbooks, snapshots, backup and recovery
 - **Security:** Least-privilege IAM, access controls, cloud security fundamentals, logging, and defensive analysis
 - **Automation and collaboration:** Git, GitHub, Python, Bash, PowerShell, documentation, and CI/CD concepts
+
+## 🚀 Product, cybersecurity, data & business — additional strengths
+
+Cloud is my main direction, but my work also covers how technology supports products, security, decisions, and business outcomes.
+
+| Area | Portfolio evidence |
+| --- | --- |
+| **Product & Technology** | [Product Management](https://github.com/JamieChristian22/product-manager-portfolio) · [Product Analysis](https://github.com/JamieChristian22/product-analyst-portfolio) · [Product Ownership](https://github.com/JamieChristian22/product-owner-portfolio) |
+| **Cybersecurity** | [Cybersecurity Analyst](https://github.com/JamieChristian22/cybersecurity-analyst-portfolio) · [Cloud Security Operations](https://github.com/JamieChristian22/cloud-security-operations-platform) |
+| **Data & BI** | [Data Analytics](https://github.com/JamieChristian22/data-analyst-portfolio) · [Business Intelligence](https://github.com/JamieChristian22/business-intelligence-portfolio) · [Data Engineering](https://github.com/JamieChristian22/data-engineering-portfolio) |
+| **Business & Systems** | [Business Analysis](https://github.com/JamieChristian22/Business-Analyst-Portfolio2) · [Systems Analysis](https://github.com/JamieChristian22/system-analyst-portfolio) |
 
 ## Find projects by role
 
