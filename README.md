@@ -1,58 +1,62 @@
-# 👋 Hi, I'm Jamie Christian II
+# Jamie Christian II | Cloud & Platform Engineering
 
-### 🚀 Business & Technology | ☁️ Cloud & IT | 🔐 Cybersecurity | 📊 Data & BI | 📋 Product & Project Delivery
+**Cloud Engineering • Platform Operations • Cloud Support • Infrastructure Automation • Cloud Security**
 
-**I connect business problems, data, people, and technology through documented, hands-on portfolio projects.**
+I build and document hands-on cloud infrastructure, troubleshooting, security, and automation projects across **AWS, Azure, and Google Cloud**. My work connects infrastructure design with the day-to-day practices that make systems supportable: diagnosing failures, validating changes, managing access, monitoring services, and documenting recovery.
 
-I'm a business and technology professional with a **B.S. in Entrepreneurial Management (cum laude)** from **Virginia Union University** and experience in remote business operations, issue resolution, reporting, and documentation. My GitHub is an evidence-first portfolio of technical labs, analysis, case studies, and professional workflows across multiple career paths.
+I'm an early-career technology professional with a **B.S. in Entrepreneurial Management (cum laude)** from Virginia Union University and experience in remote business operations, issue resolution, reporting, and documentation. My technical portfolio includes **labs, simulations, and independently developed projects**—not claims of production employment.
 
-**I'm interested in early-career, U.S.-remote opportunities** across cloud/platform engineering, IT and technical operations, cybersecurity, business and systems analysis, data/BI, financial and marketing analysis, product, and project/program delivery.
+**Open to U.S.-remote, entry-level and associate opportunities** in cloud/platform engineering, cloud support, infrastructure and technical operations, and cloud security/IAM. I also bring project work in business analysis, data/BI, and product delivery.
 
-🌍 **Global developer connections:** I'm happy to connect with and learn from developers around the world, exchange feedback, and collaborate on open-source projects. *(My employment search is focused on U.S.-remote roles.)*
-
-[**🌐 Portfolio website**](https://jamiechristian22.github.io/) · [**💼 LinkedIn**](https://www.linkedin.com/in/jamiechristian2/) · [**🔎 Recruiter quick start**](RECRUITER_START_HERE.md) · [**📂 All repositories**](https://github.com/JamieChristian22?tab=repositories)
+[**Portfolio website**](https://jamiechristian22.github.io/) · [**Recruiter guide**](RECRUITER_START_HERE.md) · [**LinkedIn**](https://www.linkedin.com/in/jamiechristian2/) · [**All repositories**](https://github.com/JamieChristian22?tab=repositories)
 
 ---
 
-## 🎯 For recruiters & hiring teams — choose a career path
+## Start here: engineering evidence
 
-Each link leads to **project evidence**, not a claim of production employment. Review the repository's README, source files, technical documentation, screenshots, and available verification instructions.
-
-| Career direction | Relevant portfolios |
+| Project | What to inspect |
 | --- | --- |
-| **Cloud / Platform / DevOps Engineer** | [Platform Engineering](https://github.com/JamieChristian22/cloud-platform-engineering-lab) · [Multi-Cloud Engineering](https://github.com/JamieChristian22/multi-cloud-engineer-portfolio) · [DevOps](https://github.com/JamieChristian22/multi-cloud-devops-engineering-projects) · [Troubleshooting & Reliability](https://github.com/JamieChristian22/cloud-infrastructure-troubleshooting-lab) |
-| **Cloud Support / IT Support / Technical Operations / Implementation** | [Cloud Support](https://github.com/JamieChristian22/cloud-support-operations-portfolio) · [Troubleshooting & Reliability](https://github.com/JamieChristian22/cloud-infrastructure-troubleshooting-lab) · [Enterprise IT & Systems](https://github.com/JamieChristian22/enterprise-it-support-and-systems-operations) |
-| **Cybersecurity / SOC / Cloud Security / IAM** | [Cybersecurity Analysis](https://github.com/JamieChristian22/cybersecurity-analyst-portfolio) · [Cloud Security Operations](https://github.com/JamieChristian22/cloud-security-operations-platform) · [AWS Security](https://github.com/JamieChristian22/aws-security-networking) |
-| **Data Analyst / BI Developer / Reporting Analyst** | [Data Analytics](https://github.com/JamieChristian22/data-analyst-portfolio) · [Business Intelligence](https://github.com/JamieChristian22/business-intelligence-portfolio) |
-| **Data Operations / Data Engineering / Data Science** | [Data Operations](https://github.com/JamieChristian22/professional-data-operations-portfolio-) · [Data Engineering](https://github.com/JamieChristian22/data-engineering-portfolio) · [Data Science](https://github.com/JamieChristian22/data-science-portfolio) |
-| **Business Analyst / Systems Analyst** | [Business Analysis](https://github.com/JamieChristian22/Business-Analyst-Portfolio2) · [Systems Analysis](https://github.com/JamieChristian22/system-analyst-portfolio) |
-| **Financial / Marketing Analyst** | [Financial Analysis](https://github.com/JamieChristian22/financial-analyst-portfolio) · [Marketing Analytics](https://github.com/JamieChristian22/marketing-analytics-portfolio) |
-| **Product Analyst / Product Manager / Product Owner** | [Product Analysis](https://github.com/JamieChristian22/product-analyst-portfolio) · [Product Management](https://github.com/JamieChristian22/product-manager-portfolio) · [Product Ownership](https://github.com/JamieChristian22/product-owner-portfolio) |
-| **Project / Program Coordinator / Agile Delivery** | [Project Coordination](https://github.com/JamieChristian22/project-coordinator-portfolio) · [Program Management](https://github.com/JamieChristian22/program-manager-portfolio) · [Agile / Scrum](https://github.com/JamieChristian22/scrum-master-agile-portfolio) |
+| [Cloud Infrastructure Troubleshooting Lab](https://github.com/JamieChristian22/cloud-infrastructure-troubleshooting-lab) | Incident simulation, API diagnostics, fault injection, automated tests, and recovery documentation |
+| [Cloud Platform Engineering Lab](https://github.com/JamieChristian22/cloud-platform-engineering-lab) | Landing-zone architecture, hybrid foundations, shared services, and multi-cloud networking |
+| [AWS Security & Networking](https://github.com/JamieChristian22/aws-security-networking) | Terraform network architecture, IAM guardrails, and defensive cloud controls |
+| [Multi-Cloud Engineer Portfolio](https://github.com/JamieChristian22/multi-cloud-engineer-portfolio) | Infrastructure as Code and cloud engineering examples across cloud providers |
+| [Cloud Support & Operations](https://github.com/JamieChristian22/cloud-support-operations-portfolio) | Troubleshooting, monitoring, incident response, access management, and operational runbooks |
+| [Enterprise IT & Systems Operations](https://github.com/JamieChristian22/enterprise-it-support-and-systems-operations) | Systems support, administration, investigation, and documentation |
 
-> **Want a shorter review path?** See my [evidence-first recruiter guide](RECRUITER_START_HERE.md) for selected projects, direct files, and verification links.
+**Review approach:** Open a repository, inspect its README and source files, follow its verification steps where available, and distinguish implemented work from planned features. Labs and synthetic scenarios are labeled as such.
 
----
+## Technical focus
 
-## ⭐ Featured work — a cross-functional sample
+- **Cloud infrastructure:** AWS VPC, EC2, IAM, S3, CloudWatch; Azure networking and identity; Google Cloud fundamentals
+- **Infrastructure as Code:** Terraform configuration, validation, plan review, and lifecycle commands
+- **Containers and platforms:** Hands-on exposure to Azure Kubernetes Service (AKS), Amazon Elastic Container Service (ECS), Docker, and Kubernetes concepts
+- **Operations and reliability:** Linux, networking diagnostics, monitoring, incident triage, escalation, runbooks, snapshots, backup and recovery
+- **Security:** Least-privilege IAM, access controls, cloud security fundamentals, logging, and defensive analysis
+- **Automation and collaboration:** Git, GitHub, Python, Bash, PowerShell, documentation, and CI/CD concepts
 
-| Featured project | What it demonstrates |
+## Find projects by role
+
+| Target role | Recommended evidence |
 | --- | --- |
-| [🛠️ Cloud Troubleshooting & Reliability Lab](https://github.com/JamieChristian22/cloud-infrastructure-troubleshooting-lab) | Working Python incident simulator, API diagnostics, metrics, fault injection, 19 automated tests, and recorded recovery evidence |
-| [☁️ Cloud Platform Engineering Lab](https://github.com/JamieChristian22/cloud-platform-engineering-lab) | Architecture, infrastructure, automation, and operations concepts |
-| [🖥️ Enterprise IT & Systems Operations](https://github.com/JamieChristian22/enterprise-it-support-and-systems-operations) | User/system support workflows, investigation, and documentation |
-| [🔐 Cybersecurity Analyst Portfolio](https://github.com/JamieChristian22/cybersecurity-analyst-portfolio) | Security investigations and defensive analysis |
-| [📊 Business Intelligence Portfolio](https://github.com/JamieChristian22/business-intelligence-portfolio) | Business dashboards, KPIs, and reporting |
-| [📈 Business Analyst Portfolio](https://github.com/JamieChristian22/Business-Analyst-Portfolio2) | Requirements, process analysis, and stakeholder-focused deliverables |
-| [🚀 Product Manager Portfolio](https://github.com/JamieChristian22/product-manager-portfolio) | Product decisions, requirements, and prioritization |
-| [💰 Financial Analyst Portfolio](https://github.com/JamieChristian22/financial-analyst-portfolio) | Financial-analysis examples and decision support |
-| [📋 Project Coordinator Portfolio](https://github.com/JamieChristian22/project-coordinator-portfolio) | Project planning, tracking, and delivery documentation |
+| **Associate Cloud Engineer / Junior Cloud Engineer** | [Platform Lab](https://github.com/JamieChristian22/cloud-platform-engineering-lab) · [Multi-Cloud Engineer](https://github.com/JamieChristian22/multi-cloud-engineer-portfolio) |
+| **Associate Platform Engineer / Junior DevOps Engineer** | [Platform Lab](https://github.com/JamieChristian22/cloud-platform-engineering-lab) · [DevOps Projects](https://github.com/JamieChristian22/multi-cloud-devops-engineering-projects) |
+| **Cloud Support Engineer I / Technical Support Engineer I** | [Troubleshooting Lab](https://github.com/JamieChristian22/cloud-infrastructure-troubleshooting-lab) · [Cloud Support](https://github.com/JamieChristian22/cloud-support-operations-portfolio) |
+| **Cloud Security / IAM Analyst** | [AWS Security](https://github.com/JamieChristian22/aws-security-networking) · [Cybersecurity Portfolio](https://github.com/JamieChristian22/cybersecurity-analyst-portfolio) |
+| **Business / Product Analyst** | [Business Analyst](https://github.com/JamieChristian22/Business-Analyst-Portfolio2) · [Product Analyst](https://github.com/JamieChristian22/product-analyst-portfolio) |
+| **Data Analyst I / Reporting Analyst** | [Data Analytics](https://github.com/JamieChristian22/data-analyst-portfolio) · [Business Intelligence](https://github.com/JamieChristian22/business-intelligence-portfolio) |
 
-### A few visual work samples
+## Selected credentials and education
 
-| Product & analytics | Business intelligence | AWS network architecture |
-| :---: | :---: | :---: |
-| [<img src="https://raw.githubusercontent.com/JamieChristian22/product-manager-portfolio/main/Images/dashboard_overview.png" alt="Product portfolio dashboard preview" width="250">](https://github.com/JamieChristian22/product-manager-portfolio) | [<img src="https://raw.githubusercontent.com/JamieChristian22/business-intelligence-portfolio/main/04_FPNA_Executive_Analytics_PowerBI/Images/fpna_executive_analytics_powerbi_dashboard.png" alt="Executive FP&A dashboard preview" width="250">](https://github.com/JamieChristian22/business-intelligence-portfolio) | [<img src="https://raw.githubusercontent.com/JamieChristian22/aws-security-networking/main/diagrams/01-network-core.svg" alt="AWS network architecture diagram" width="250">](https://github.com/JamieChristian22/aws-security-networking) |
+- **B.S., Entrepreneurial Management**, Virginia Union University — cum laude
+- **Google Cloud Cybersecurity Professional Certificate** — 2026
+- **Google IT Support Professional Certificate** — 2026
+- **Microsoft IT Support Specialist Professional Certificate** — 2026
+
+## Engineering workflow
+
+**Understand the request → Identify dependencies and risks → Design the change → Validate and test → Monitor behavior → Document results and recovery.**
+
+My goal is to show how I approach technical problems, not just list tools. Where a project is simulated or incomplete, its documentation should make that clear.
 
 ---
 
