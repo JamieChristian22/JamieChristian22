@@ -28,7 +28,7 @@ My GitHub is a collection of **public projects across technology, analytics, cyb
 | 📋 Project delivery & operations | [Project coordination case studies](https://github.com/JamieChristian22/project-coordinator-portfolio) |
 | 💰 Finance & marketing analytics | [Financial analysis](https://github.com/JamieChristian22/financial-analyst-portfolio) · [Marketing analytics](https://github.com/JamieChristian22/marketing-analytics-portfolio) |
 
-Sponsorship helps me spend more time on project maintenance, testing, documentation, accessible examples, and new public learning resources across these disciplines.
+Sponsorship helps me spend more time on project maintenance, testing, documentation, accessible examples, and new public learning resources across these disciplines. [Explore the six featured projects and how sponsorship helps](https://github.com/JamieChristian22/.github/blob/main/SPONSORSHIP.md).
 
 [![Sponsor on GitHub](https://img.shields.io/badge/Sponsor_on_GitHub-EA4AAA?logo=githubsponsors&logoColor=white)](https://github.com/sponsors/JamieChristian22)
 
