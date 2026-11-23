@@ -14,9 +14,17 @@ I'm an early-career technology professional with a **B.S. in Entrepreneurial Man
 
 ## 💜 Support my public projects
 
-I share public cloud engineering labs, troubleshooting scenarios, infrastructure examples, and technical documentation. If you find this work useful, you can support the time spent maintaining and improving these projects through GitHub Sponsors. Sponsorship is optional, and my public repositories remain accessible without payment.
+I build and maintain practical, public cloud-engineering resources that people can inspect, learn from, and adapt. If a project or runbook here has helped you, **[support my work through GitHub Sponsors](https://github.com/sponsors/JamieChristian22)**.
+
+Your optional support helps me invest time in better documentation, reproducible tests, security-conscious examples, and ongoing improvements to projects such as:
+
+- [Cloud Infrastructure Troubleshooting Lab](https://github.com/JamieChristian22/cloud-infrastructure-troubleshooting-lab) — incident simulations and recovery evidence
+- [Cloud Platform Engineering Lab](https://github.com/JamieChristian22/cloud-platform-engineering-lab) — platform design and infrastructure examples
+- [AWS Security & Networking](https://github.com/JamieChristian22/aws-security-networking) — defensive cloud-security patterns and validation
 
 [![Sponsor on GitHub](https://img.shields.io/badge/Sponsor_on_GitHub-EA4AAA?logo=githubsponsors&logoColor=white)](https://github.com/sponsors/JamieChristian22)
+
+**No sponsorship required:** Public resources remain accessible without payment. Labs and simulations are identified as such, not represented as production systems.
 
 ---
 
