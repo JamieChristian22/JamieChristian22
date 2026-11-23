@@ -12,19 +12,27 @@ I'm an early-career technology professional with a **B.S. in Entrepreneurial Man
 
 [**Portfolio website**](https://jamiechristian22.github.io/) · [**Recruiter guide**](RECRUITER_START_HERE.md) · [**LinkedIn**](https://www.linkedin.com/in/jamiechristian2/) · [**All repositories**](https://github.com/JamieChristian22?tab=repositories)
 
-## 💜 Support my public projects
+## 💜 Sponsor multidisciplinary public projects
 
-I build and maintain practical, public cloud-engineering resources that people can inspect, learn from, and adapt. If a project or runbook here has helped you, **[support my work through GitHub Sponsors](https://github.com/sponsors/JamieChristian22)**.
+My GitHub is a collection of **public projects across technology, analytics, cybersecurity, business, product, and operations**—not just cloud engineering. I share practical examples, reproducible labs, documented case studies, and reusable learning resources. If any of this work helps you, [**become a GitHub Sponsor**](https://github.com/sponsors/JamieChristian22).
 
-Your optional support helps me invest time in better documentation, reproducible tests, security-conscious examples, and ongoing improvements to projects such as:
+**Explore the range of projects sponsorship can support:**
 
-- [Cloud Infrastructure Troubleshooting Lab](https://github.com/JamieChristian22/cloud-infrastructure-troubleshooting-lab) — incident simulations and recovery evidence
-- [Cloud Platform Engineering Lab](https://github.com/JamieChristian22/cloud-platform-engineering-lab) — platform design and infrastructure examples
-- [AWS Security & Networking](https://github.com/JamieChristian22/aws-security-networking) — defensive cloud-security patterns and validation
+| Area | Example public work |
+| --- | --- |
+| ☁️ Cloud, platform & DevOps | [Infrastructure troubleshooting lab](https://github.com/JamieChristian22/cloud-infrastructure-troubleshooting-lab) · [Platform engineering lab](https://github.com/JamieChristian22/cloud-platform-engineering-lab) |
+| 🔐 Cybersecurity & IT operations | [Cybersecurity investigations](https://github.com/JamieChristian22/cybersecurity-analyst-portfolio) |
+| 📊 Data, BI & AI | [Data engineering](https://github.com/JamieChristian22/data-engineering-portfolio) · [Data science](https://github.com/JamieChristian22/data-science-portfolio) |
+| 💼 Business & systems analysis | [Requirements and process analysis](https://github.com/JamieChristian22/Business-Analyst-Portfolio2) |
+| 🚀 Product & innovation | [Product analytics and experimentation](https://github.com/JamieChristian22/product-analyst-portfolio) |
+| 📋 Project delivery & operations | [Project coordination case studies](https://github.com/JamieChristian22/project-coordinator-portfolio) |
+| 💰 Finance & marketing analytics | [Financial analysis](https://github.com/JamieChristian22/financial-analyst-portfolio) · [Marketing analytics](https://github.com/JamieChristian22/marketing-analytics-portfolio) |
+
+Sponsorship helps me spend more time on project maintenance, testing, documentation, accessible examples, and new public learning resources across these disciplines.
 
 [![Sponsor on GitHub](https://img.shields.io/badge/Sponsor_on_GitHub-EA4AAA?logo=githubsponsors&logoColor=white)](https://github.com/sponsors/JamieChristian22)
 
-**No sponsorship required:** Public resources remain accessible without payment. Labs and simulations are identified as such, not represented as production systems.
+**Open access:** Sponsorship is voluntary and does not buy influence over project findings or guarantee feature requests. Public materials remain available under each repository's stated terms; simulations and lab work are identified clearly.
 
 ---
 
