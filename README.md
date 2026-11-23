@@ -12,6 +12,12 @@ I'm an early-career technology professional with a **B.S. in Entrepreneurial Man
 
 [**Portfolio website**](https://jamiechristian22.github.io/) · [**Recruiter guide**](RECRUITER_START_HERE.md) · [**LinkedIn**](https://www.linkedin.com/in/jamiechristian2/) · [**All repositories**](https://github.com/JamieChristian22?tab=repositories)
 
+## 💜 Support my public projects
+
+I share public cloud engineering labs, troubleshooting scenarios, infrastructure examples, and technical documentation. If you find this work useful, you can support the time spent maintaining and improving these projects through GitHub Sponsors. Sponsorship is optional, and my public repositories remain accessible without payment.
+
+[![Sponsor on GitHub](https://img.shields.io/badge/Sponsor_on_GitHub-EA4AAA?logo=githubsponsors&logoColor=white)](https://github.com/sponsors/JamieChristian22)
+
 ---
 
 ## ☁️ Featured cloud & engineering work — primary focus
