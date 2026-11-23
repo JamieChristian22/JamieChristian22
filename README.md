@@ -14,7 +14,7 @@ I'm an early-career technology professional with a **B.S. in Entrepreneurial Man
 
 ## 💜 Sponsor multidisciplinary public projects
 
-My GitHub is a collection of **public projects across technology, analytics, cybersecurity, business, product, and operations**—not just cloud engineering. I share practical examples, reproducible labs, documented case studies, and reusable learning resources. If any of this work helps you, [**become a GitHub Sponsor**](https://github.com/sponsors/JamieChristian22).
+My GitHub is a collection of **public projects across technology, analytics, cybersecurity, business, product, and operations**—not just cloud engineering. I share practical examples, reproducible labs, documented case studies, and reusable learning resources. If any of this work helps you, [**explore the sponsorship campaign**](https://jamiechristian22.github.io/sponsor/) or [**become a GitHub Sponsor**](https://github.com/sponsors/JamieChristian22).
 
 **Explore the range of projects sponsorship can support:**
 
