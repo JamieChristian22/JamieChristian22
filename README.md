@@ -12,6 +12,21 @@ I'm an early-career technology professional with a **B.S. in Entrepreneurial Man
 
 [**Portfolio website**](https://jamiechristian22.github.io/) · [**Recruiter guide**](RECRUITER_START_HERE.md) · [**LinkedIn**](https://www.linkedin.com/in/jamiechristian2/) · [**All repositories**](https://github.com/JamieChristian22?tab=repositories)
 
+## Start here — engineering evidence in five minutes
+
+| Project | Evidence to review |
+| --- | --- |
+| **[AWS VPC Terraform Lab](https://github.com/JamieChristian22/aws-vpc-terraform-lab)** | [Terraform source](https://github.com/JamieChristian22/aws-vpc-terraform-lab/blob/main/main.tf) · [Hands-on training log](https://github.com/JamieChristian22/aws-vpc-terraform-lab/blob/main/docs/training/2026-11-23-cloud-platform-engineering.md) — locally validated network configuration; no AWS deployment |
+| **[Cloud Infrastructure Troubleshooting Lab](https://github.com/JamieChristian22/cloud-infrastructure-troubleshooting-lab)** | [Incident replay](https://github.com/JamieChristian22/cloud-infrastructure-troubleshooting-lab/blob/main/evidence/incident-replay.md) · [Verification scope](https://github.com/JamieChristian22/cloud-infrastructure-troubleshooting-lab/blob/main/docs/verification.md) — simulated incidents, local service and tests |
+| **[Multi-Cloud DevOps Engineering Projects](https://github.com/JamieChristian22/multi-cloud-devops-engineering-projects)** | [Offline GitOps tests](https://github.com/JamieChristian22/multi-cloud-devops-engineering-projects/blob/main/tests/test_gitops_contracts.py) — inspect validation contracts and automation |
+| **[Cloud Platform Engineering Lab](https://github.com/JamieChristian22/cloud-platform-engineering-lab)** | Platform architecture and infrastructure examples; inspect individual project implementation and limitations |
+| **[Multi-Cloud Security Engineering Platform](https://github.com/JamieChristian22/multi-cloud-security-engineering-platform)** | Identity, logging, defensive controls and security design examples |
+| **[Data Engineering Portfolio](https://github.com/JamieChristian22/data-engineering-portfolio)** | Pipeline, data modeling and validation examples |
+
+**Latest hands-on practice (November 23, 2026):** Terraform configuration inspection, Linux file permissions, Git history, Docker engine troubleshooting, container diagnostics, and a local Kubernetes deployment and cleanup. [Read the training record](https://github.com/JamieChristian22/aws-vpc-terraform-lab/blob/main/docs/training/2026-11-23-cloud-platform-engineering.md). CI workflow concepts were reviewed during the session; no live AWS resources were created.
+
+**Review standard:** Check source, tests, current workflow results, and limitations. Portfolio demonstrations are not production employment or customer outcomes.
+
 ## 💜 Sponsor multidisciplinary public projects
 
 My GitHub is a collection of **public projects across technology, analytics, cybersecurity, business, product, and operations**—not just cloud engineering. I share practical examples, reproducible labs, documented case studies, and reusable learning resources. If any of this work helps you, [**explore the sponsorship campaign**](https://jamiechristian22.github.io/sponsor/) or [**become a GitHub Sponsor**](https://github.com/sponsors/JamieChristian22).
@@ -73,7 +88,7 @@ Cloud is my main direction, but my work also covers how technology supports prod
 
 | Target role | Recommended evidence |
 | --- | --- |
-| **Associate Cloud Engineer / Junior Cloud Engineer** | [Platform Lab](https://github.com/JamieChristian22/cloud-platform-engineering-lab) · [Multi-Cloud Engineer](https://github.com/JamieChristian22/multi-cloud-engineer-portfolio) |
+| **Associate Cloud Engineer / Junior Cloud Engineer** | [Platform Lab](https://github.com/JamieChristian22/cloud-platform-engineering-lab) · [Multi-Cloud Engineer](https://github.com/JamieChristian22/multi-cloud-engineer-portfolio) · [AWS VPC Terraform Lab](https://github.com/JamieChristian22/aws-vpc-terraform-lab) |
 | **Associate Platform Engineer / Junior DevOps Engineer** | [Platform Lab](https://github.com/JamieChristian22/cloud-platform-engineering-lab) · [DevOps Projects](https://github.com/JamieChristian22/multi-cloud-devops-engineering-projects) |
 | **Cloud Support Engineer I / Technical Support Engineer I** | [Troubleshooting Lab](https://github.com/JamieChristian22/cloud-infrastructure-troubleshooting-lab) · [Cloud Support](https://github.com/JamieChristian22/cloud-support-operations-portfolio) |
 | **Cloud Security / IAM Analyst** | [AWS Security](https://github.com/JamieChristian22/aws-security-networking) · [Cybersecurity Portfolio](https://github.com/JamieChristian22/cybersecurity-analyst-portfolio) |
@@ -113,24 +128,26 @@ My goal is to show how I approach technical problems, not just list tools. Where
 
 ## 📚 Complete public repository directory
 
-All **35 public repositories** currently owned by this account are linked below, including the profile and website repositories. Expand the career area you want to explore.
+All **38 public repositories** currently owned by this account are linked below, including the profile and website repositories. Expand the career area you want to explore.
 
 <details>
-<summary><strong>☁️ Cloud, Platform Engineering & DevOps (5 repositories)</strong></summary>
+<summary><strong>☁️ Cloud, Platform Engineering & DevOps (6 repositories)</strong></summary>
 
 - [cloud-platform-engineering-lab](https://github.com/JamieChristian22/cloud-platform-engineering-lab)
 - [multi-cloud-engineer-portfolio](https://github.com/JamieChristian22/multi-cloud-engineer-portfolio)
 - [multi-cloud-architect-portfolio](https://github.com/JamieChristian22/multi-cloud-architect-portfolio)
 - [multi-cloud-devops-engineering-projects](https://github.com/JamieChristian22/multi-cloud-devops-engineering-projects)
 - [aws-solutions-architect](https://github.com/JamieChristian22/aws-solutions-architect)
+- [aws-vpc-terraform-lab](https://github.com/JamieChristian22/aws-vpc-terraform-lab)
 
 </details>
 
 <details>
-<summary><strong>🖥️ IT Support, Cloud Operations & Cybersecurity (6 repositories)</strong></summary>
+<summary><strong>🖥️ IT Support, Cloud Operations & Cybersecurity (7 repositories)</strong></summary>
 
 - [enterprise-it-support-and-systems-operations](https://github.com/JamieChristian22/enterprise-it-support-and-systems-operations)
 - [cloud-support-operations-portfolio](https://github.com/JamieChristian22/cloud-support-operations-portfolio)
+- [cloud-infrastructure-troubleshooting-lab](https://github.com/JamieChristian22/cloud-infrastructure-troubleshooting-lab)
 - [aws-security-networking](https://github.com/JamieChristian22/aws-security-networking)
 - [cloud-security-operations-platform](https://github.com/JamieChristian22/cloud-security-operations-platform)
 - [cybersecurity-analyst-portfolio](https://github.com/JamieChristian22/cybersecurity-analyst-portfolio)
@@ -173,13 +190,14 @@ All **35 public repositories** currently owned by this account are linked below,
 </details>
 
 <details>
-<summary><strong>📋 Project, Program, Agile & Leadership (5 repositories)</strong></summary>
+<summary><strong>📋 Project, Program, Agile, HR & Leadership (6 repositories)</strong></summary>
 
 - [project-coordinator-portfolio](https://github.com/JamieChristian22/project-coordinator-portfolio)
 - [project-manager-portfolio](https://github.com/JamieChristian22/project-manager-portfolio)
 - [program-manager-portfolio](https://github.com/JamieChristian22/program-manager-portfolio)
 - [scrum-master-agile-portfolio](https://github.com/JamieChristian22/scrum-master-agile-portfolio)
 - [management-leadership-portfolio](https://github.com/JamieChristian22/management-leadership-portfolio)
+- [talent-acquisition-hr-enterprise-portfolio](https://github.com/JamieChristian22/talent-acquisition-hr-enterprise-portfolio)
 
 </details>
 
