@@ -1,10 +1,18 @@
 # Recruiter quick start — evidence-first portfolio
 
-**Jamie Christian II | Business Analysis • Data Analytics • Product Analysis • Enterprise IT • Cloud Operations • Security**
+**Jamie Christian II | Cloud & Platform Engineering • DevOps • Cloud Support • Security • Data • Business & Product Analysis**
 
 This guide is a short path to inspect actual files and tests. It distinguishes documented demonstrations from production systems and does not turn modeled project outcomes into employer results.
 
-## Six useful starting points
+## Engineering-first review paths
+
+| Role focus | First file to open | Evidence to inspect |
+| --- | --- | --- |
+| Associate Cloud Engineer / Junior Infrastructure Engineer | [AWS VPC Terraform Lab](https://github.com/JamieChristian22/aws-vpc-terraform-lab) | [Infrastructure code](https://github.com/JamieChristian22/aws-vpc-terraform-lab/blob/main/main.tf), [hands-on training log](https://github.com/JamieChristian22/aws-vpc-terraform-lab/blob/main/docs/training/2026-11-23-cloud-platform-engineering.md); locally validated, not deployed to AWS |
+| Associate Platform Engineer / Junior DevOps Engineer | [Multi-Cloud DevOps Projects](https://github.com/JamieChristian22/multi-cloud-devops-engineering-projects) | [GitOps contract tests](https://github.com/JamieChristian22/multi-cloud-devops-engineering-projects/blob/main/tests/test_gitops_contracts.py), [optional IaC checker](https://github.com/JamieChristian22/multi-cloud-devops-engineering-projects/blob/main/scripts/check-optional-iac.sh) |
+| Cloud Support Engineer I / Technical Support Engineer I | [Cloud Infrastructure Troubleshooting Lab](https://github.com/JamieChristian22/cloud-infrastructure-troubleshooting-lab) | [Incident replay](https://github.com/JamieChristian22/cloud-infrastructure-troubleshooting-lab/blob/main/evidence/incident-replay.md), [verification scope](https://github.com/JamieChristian22/cloud-infrastructure-troubleshooting-lab/blob/main/docs/verification.md) |
+
+## Additional role-specific starting points
 
 | Role focus | First file to open | Evidence to inspect |
 | --- | --- | --- |
