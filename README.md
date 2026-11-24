@@ -235,6 +235,8 @@ I share work across **cloud, security, data, business analysis, product, and ope
 - 🤝 **Collaborate** on documentation, analysis, reproducible examples, or technical learning.
 - 👥 **Follow** [this GitHub profile](https://github.com/JamieChristian22) to keep up with new and improved projects.
 
+**Project collaboration:** [Explore remote project inquiry areas](https://jamiechristian22.github.io/services/) — business analysis, data, technical documentation and scoped engineering support. Scope and terms are discussed separately.
+
 **For career conversations:** [LinkedIn](https://www.linkedin.com/in/jamiechristian2/) · [Portfolio website](https://jamiechristian22.github.io/) · [Recruiter guide](RECRUITER_START_HERE.md)
 
 **Optional support:** [GitHub Sponsors](https://github.com/sponsors/JamieChristian22) · [Digital business services](https://ko-fi.com/jamiechristian)
