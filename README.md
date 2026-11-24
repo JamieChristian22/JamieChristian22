@@ -25,6 +25,8 @@ I'm an early-career technology professional with a **B.S. in Entrepreneurial Man
 
 **Latest hands-on practice (November 23, 2026):** Terraform configuration inspection, Linux file permissions, Git history, Docker engine troubleshooting, container diagnostics, and a local Kubernetes deployment and cleanup. [Read the training record](https://github.com/JamieChristian22/aws-vpc-terraform-lab/blob/main/docs/training/2026-11-23-cloud-platform-engineering.md). CI workflow concepts were reviewed during the session; no live AWS resources were created.
 
+**Engineering notes:** [What a small AWS VPC lab teaches about cloud engineering](https://jamiechristian22.github.io/notes/aws-vpc-terraform/) — subnet isolation, security group references, and validation without an AWS deployment.
+
 **Review standard:** Check source, tests, current workflow results, and limitations. Portfolio demonstrations are not production employment or customer outcomes.
 
 ## 💜 Sponsor multidisciplinary public projects
