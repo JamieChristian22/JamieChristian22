@@ -1,4 +1,4 @@
-name: Profile metadata helper checks
+name: Profile metadata helper safety checks
 
 on:
   push:
@@ -16,30 +16,28 @@ permissions:
   contents: read
 
 jobs:
-  offline-helper-validation:
+  offline-helper-safety:
     runs-on: ubuntu-latest
+    timeout-minutes: 5
     steps:
       - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+        with:
+          persist-credentials: false
       - uses: actions/setup-python@a26af69be951a213d495a4c3e4e4022e16d87065 # v5
         with:
           python-version: '3.11'
-      - name: Check Python syntax
+      - name: Compile retired helper
         run: python -m py_compile tools/finish_github_settings.py
-      - name: Check 10-repository dry run
+      - name: Verify default is read-only
         run: |
-          python tools/finish_github_settings.py > /tmp/github-metadata-preview.txt
-          python - <<'PY'
-          from pathlib import Path
-          report = Path('/tmp/github-metadata-preview.txt').read_text()
-          assert report.count('gh repo edit JamieChristian22/') == 10, report
-          assert 'DRY RUN: no GitHub settings were changed.' in report
-          PY
-      - name: Check single-repository dry run
+          python tools/finish_github_settings.py > /tmp/profile-settings-preview.txt
+          grep -q 'READ-ONLY' /tmp/profile-settings-preview.txt
+          grep -q 'Homepage updates remain on hold' /tmp/profile-settings-preview.txt
+      - name: Refuse legacy --apply without invoking GitHub
         run: |
-          python tools/finish_github_settings.py --only jamiechristian22.github.io > /tmp/github-single-preview.txt
-          python - <<'PY'
-          from pathlib import Path
-          report = Path('/tmp/github-single-preview.txt').read_text()
-          assert report.count('gh repo edit JamieChristian22/') == 1, report
-          assert 'gh repo edit JamieChristian22/jamiechristian22.github.io' in report
-          PY
+          if python tools/finish_github_settings.py --apply > /tmp/legacy-apply-out.txt 2> /tmp/legacy-apply-err.txt; then
+            echo 'ERROR: unsafe legacy --apply unexpectedly succeeded' >&2
+            exit 1
+          fi
+          grep -q 'REFUSED' /tmp/legacy-apply-err.txt
+          grep -q 'No GitHub settings were changed' /tmp/legacy-apply-err.txt
